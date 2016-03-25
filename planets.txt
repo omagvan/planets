@@ -1,3 +1,3 @@
-mercury venus earth mars 
+mercury venus earth mars neptun 
 consider adding pluto
 ok adding pluto
